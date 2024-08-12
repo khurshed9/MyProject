@@ -1,0 +1,14 @@
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\bin\Debug\net8.0\lesson1.exe
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\bin\Debug\net8.0\lesson1.deps.json
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\bin\Debug\net8.0\lesson1.runtimeconfig.json
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\bin\Debug\net8.0\lesson1.dll
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\bin\Debug\net8.0\lesson1.pdb
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.dll
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\refint\lesson1.dll
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.pdb
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\lesson1.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\C#\WEEK-2\lesson1\obj\Debug\net8.0\ref\lesson1.dll
