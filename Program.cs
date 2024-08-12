@@ -10,6 +10,16 @@ person.GetName();
 person.GetInfo();
 person.CheckAge();
 
+var person2 = new Person();
+
+person2.FirstName = "Rob";
+person2.LastName = "Paos";
+person2.Age = 32;
+person2.SetName("bdj");
+person2.GetName();
+person2.GetInfo();
+person2.CheckAge();
+
 
 class Person
 {
